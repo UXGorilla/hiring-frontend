@@ -1,4 +1,4 @@
-# Backend Task for Engineering Role
+# Frontend Task for Engineering Role
 
 Thank you for showing an interest in joining us as a part of UX Gorilla Tech team.
 
@@ -6,12 +6,14 @@ Please read this document carefully. We've tried to be as specific as we could, 
 
 Please create a web app using any framework of your choice. (We use Vue internally, so using that will give you bonus points. That being said, Vue is an easy framework and you can learn that on-job).
 
-The first page (see: product-catalog.jpg) should render the list of products from localStorage. 
+The web app that you will build for this task will be a simple 2 screen app. The app should allow the user to add products in localstorage and show them as a list on the other page.
+
+The first page (see below) should render the list of products from localStorage. 
 ![Product Catalog](product-catalog.jpg)
 
 The second page should contain a form to add products. The product list should be stored in the localStorage.
 
-Image should be stored in the base64 format within the localstorage.
+Image can be stored in the base64 format within the localstorage.
 ![Manage Products](manage-products.jpg)
 
 
