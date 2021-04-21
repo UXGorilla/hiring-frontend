@@ -20,6 +20,17 @@ Image can be stored in the base64 format within the localstorage.
 The code will be evaluated on the code quality and how close your output is to the design (Hint: You can use a lint to make it easier for yourself). Feel free to use any CSS Framework/Library.
 
 
-For any queries, send an email to aman@uxgorilla.com
+## Deploy
 
-Happy Coding!
+Once you are done with the code, please deploy to any static hosting. Here are just some free hosting providers that you can use:
+
+1. [Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart)
+2. [Github Pages](https://pages.github.com/) (Use a Project Site)
+3. [Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+
+
+## Submit for Review
+
+Please submit it on the following link for review -- Your url will be manually reviewed and someone from our team will get back.
+
+### [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLScdWWgS1VgNTsARrCdNyZly6d9Gf6EMC1S-CBDbSvcEDB6Oxg/viewform)
