@@ -14,10 +14,10 @@ But, we understand that you may have stronger skills in backend or frontend. Tha
 Check out both the tasks and complete the one that you're most confident in...
 
 
-[Frontend Task](https://google.com)
+[Frontend Task](https://github.com/UXGorilla/hiring-frontend/blob/main/README.md)
 ------------------------------------
 
-[Backend Task](https://google.com)
+[Backend Task](https://github.com/UXGorilla/hiring-backend/blob/main/README.md)
 ----------------------------------
 
 
